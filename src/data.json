@@ -1,0 +1,112 @@
+[
+    {   "id": 1,
+        "topic":"Entertainment: Video Games",
+        "rate":1,
+        "question": "What was the name of the hero in the 80s animated video game 'Dragon's Lair'?",
+        "answers":[
+            {
+                "idAnswers":1,
+                "text":"Dirk the Daring",
+                "correct": true
+            },
+            {
+                "idAnswers":2,
+                "text":"Arthur",
+                "correct": false
+            },
+            {
+                "idAnswers":3,
+                "text":"Sir Toby Belch",
+                "correct": false
+            },
+            {
+                "idAnswers":4,
+                "text":"Guy of Gisbourne",
+                "correct": false
+            }
+
+        ]
+       
+    },
+    {   "id": 2,
+        "topic":"Animals",
+        "rate":2.5,
+        "question": "What is the scientific name for modern day humans?",
+        "answers":[
+            {
+                "idAnswers":1,
+                "text":"Homo Sapiens",
+                "correct": true
+            },
+            {
+                "idAnswers":2,
+                "text":"Homo Ergaster",
+                "correct": false
+            },
+            {
+                "idAnswers":3,
+                "text":"Homo Erectus",
+                "correct": false
+            },
+            {
+                "idAnswers":4,
+                "text":"Homo Neanderthalensis",
+                "correct": false
+            }
+        ]
+    },
+    {   "id": 3,
+        "topic":"Football",
+        "rate":3,
+        "question": "Which teams play in the Premier League?",
+        "answers":[
+            {
+                "idAnswers":1,
+                "text":"Chelsea",
+                "correct": true
+            },
+            {
+                "idAnswers":2,
+                "text":"Manchester United",
+                "correct": true
+            },
+            {
+                "idAnswers":3,
+                "text":"Real Madrid",
+                "correct": false
+            },
+            {
+                "idAnswers":4,
+                "text":"Barcelona",
+                "correct": false
+            }
+        ]
+    },
+    {   "id": 4,
+        "topic":"Football",
+        "rate":2.5,
+        "question": "Which team won the Premier League?",
+        "answers":[
+            {
+                "idAnswers":1,
+                "text":"Chelsea",
+                "correct": false
+            },
+            {
+                "idAnswers":2,
+                "text":"Manchester United",
+                "correct": false
+            },
+            {
+                "idAnswers":3,
+                "text":"Manchester City",
+                "correct": true
+            },
+            {
+                "idAnswers":4,
+                "text":"Liverpool",
+                "correct": false
+            }
+        ]
+    }
+]
